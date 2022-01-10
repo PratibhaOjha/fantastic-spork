@@ -16,19 +16,20 @@ def fxn(stng):
   
   
 # input string
-inpt1 = "Computer Science Engineering"
+inpt1 =str(input("acronym for:"))
+
+
+
+
+  
+
+
   
 # output acronym
 print(fxn(inpt1))
   
-# input string
-inpt1 = "geeks for geeks"
-  
-# output acronym
-print(fxn(inpt1))
-  
-# input string
-inpt1 = "Uttar pradesh"
-  
-# output acronym
-print(fxn(inpt1))
+
+
+
+
+
