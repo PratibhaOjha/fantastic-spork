@@ -18,18 +18,7 @@ def fxn(stng):
 # input string
 inpt1 =str(input("acronym for:"))
 
-
-
-
-  
-
-
   
 # output acronym
 print(fxn(inpt1))
   
-
-
-
-
-
